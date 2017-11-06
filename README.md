@@ -1,9 +1,14 @@
 # coin-spinner
 **Coin spinning conveyor with top and bottom cameras**
 
+This project is over. A prototype was build that could spin the coin and did prove out this concept. It's was pretty slow and there was control issues with the belts running smoothly. 
+
+***
+
 When finished... this rig will have 2 independent stepper controlled belts with a gap in the middle with cameras on top and bottom. The idea is this can use very cheap USB microscope webcams to scan and hunt for very close up rare coin features. This about as cheap as it gets with still being able to do things like determine the exact stage of a documented die in an automated fashion. 
 
-**Preliminary Tasks**
+**Next Tasks**
+* Add a picture of the first prototype to this readme. 
 * Add the bottom camera
 * Build a camera mount for the temp rig
 * Make a network for one coin and determine where the coin is. 
